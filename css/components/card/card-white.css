@@ -1,0 +1,30 @@
+.card-white{
+text-transform: uppercase;
+text-decoration: none;
+color: black;
+background: #ffcc22;
+width: 100%;
+text-align: center;
+margin-top: 10px;
+padding-top: 1px;
+padding-bottom: 10px;
+margin-bottom: -30px;
+border-radius:5px;
+}
+.card-white a{
+color: black;
+}
+.card-white a:hover{
+color:white;
+}
+.list-inline{
+list-style: none;
+padding-left:0px;
+}
+.list-inline li {
+display: inline;
+padding: 40px;
+}
+.list-inline i {
+font-size: 50px;
+}

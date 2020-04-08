@@ -1,0 +1,18 @@
+.vcard-header{
+text-decoration: none;
+color: black;
+background: #ffcc22;
+width: 100%;
+text-align: center;
+margin: 0px;
+padding: 14px 0;
+border-radius:5px;
+
+}
+.vcard-header a{
+text-decoration: none;
+color: black;
+}
+.vcard-header a:hover{
+color:white;
+}
